@@ -42,6 +42,9 @@ Processing:
 
 Output:
    └── Crop Health Status + Recommendations
+
+<img width="661" height="327" alt="image" src="https://github.com/user-attachments/assets/94336dcc-8f72-4918-9227-74357696edbe" />
+
 ```
 
 ---
